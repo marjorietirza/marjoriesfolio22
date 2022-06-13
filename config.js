@@ -1,17 +1,17 @@
 module.exports = {
   url: "https://notes.desktopofsamuel.com",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_TITLE: "Marjorie's Portfolio",
+  SITE_SUBTITLE: "Folio from 2019-2022",
   SITE_DESCRIPTION:
-    "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+    "Come and take a look",
+  KEYWORDS: "Marjorie, Eunike, Product Designer, UX, Portfolio",
   HERO_TITLE:
     "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+  HERO_SUBTITLE: "-Marjorie",
+  COPYRIGHT: "Marjorie",
   LOCALE: "en",
-  POST_PER_PAGE: 6,
+  POST_PER_PAGE: 4,
   MENU: [
     {
       label: "About",
@@ -37,11 +37,15 @@ module.exports = {
     },
     {
       label: "Github",
-      path: "https://github.com/juxtdesigncc/gatsby-starter-obsidian-garden",
+      path: "https://github.com/marjorietirza/",
+    },
+    {
+      label: "Dribbble",
+      path: "https://dribbble.com/marjorietirza",
     },
   ],
   AUTHOR: {
-    NAME: "JUXT Design",
-    TWITTER: "@juxtdesigncc",
+    NAME: "Marjorie - while watching sit-coms",
+    TWITTER: "-",
   },
 };
