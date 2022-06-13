@@ -8,22 +8,18 @@ module.exports = {
   KEYWORDS: "Marjorie, Eunike, Product Designer, UX, Portfolio",
   HERO_TITLE:
     "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "-Marjorie",
+  HERO_SUBTITLE: "- Marjorie",
   COPYRIGHT: "Marjorie",
   LOCALE: "en",
   POST_PER_PAGE: 4,
   MENU: [
     {
       label: "Works",
-      path: "/about/",
+      path: "/",
     },
     {
       label: "About",
-      path: "/topics/",
-    },
-    {
-      label: "Contact",
-      path: "/topics/",
+      path: "/about/",
     },
   ],
   FOOTER: [
@@ -37,7 +33,7 @@ module.exports = {
     },
   ],
   AUTHOR: {
-    NAME: "Marjorie - while watching sit-coms",
+    NAME: "Marjorie - while watching sit-coms 📺🤣",
     TWITTER: "-",
   },
 };
