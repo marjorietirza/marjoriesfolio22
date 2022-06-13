@@ -1,5 +1,5 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "/",
   pathPrefix: "",
   SITE_TITLE: "Marjorie's Portfolio",
   SITE_SUBTITLE: "Folio from 2019-2022",
@@ -7,14 +7,14 @@ module.exports = {
     "Come and take a look",
   KEYWORDS: "Marjorie, Eunike, Product Designer, UX, Portfolio",
   HERO_TITLE:
-    "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "- Marjorie",
+    "Hi! I'm Marjorie, a Product Designer based in Jakarta, Indonesia.",
+  HERO_SUBTITLE: "Currently creating impacts in Indonesia’s growing investment startup, Pluang. Previously at Cashbac — marketing platform startup and Jagoan Hosting Indonesia — one of the top hosting provider in Indonesia.",
   COPYRIGHT: "Marjorie",
   LOCALE: "en",
   POST_PER_PAGE: 4,
   MENU: [
     {
-      label: "Works",
+      label: "Work",
       path: "/",
     },
     {
@@ -33,7 +33,7 @@ module.exports = {
     },
   ],
   AUTHOR: {
-    NAME: "Marjorie - while watching sit-coms 📺🤣",
-    TWITTER: "-",
+    NAME: "Marjorie",
+    TWITTER: "",
   },
 };
