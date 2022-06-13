@@ -14,27 +14,19 @@ module.exports = {
   POST_PER_PAGE: 4,
   MENU: [
     {
-      label: "About",
+      label: "Works",
       path: "/about/",
     },
     {
-      label: "Topics",
+      label: "About",
+      path: "/topics/",
+    },
+    {
+      label: "Contact",
       path: "/topics/",
     },
   ],
   FOOTER: [
-    {
-      label: "Home",
-      path: "/",
-    },
-    {
-      label: "About",
-      path: "/about/",
-    },
-    {
-      label: "Changelog",
-      path: "/changelog/",
-    },
     {
       label: "Github",
       path: "https://github.com/marjorietirza/",
