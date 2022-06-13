@@ -2,23 +2,23 @@ import React from "react";
 
 const featureData = [
   {
-    title: "Self-host Obsidian Website",
+    title: "Ally to all",
     description:
-      "Publish your Obsidian knowledge base as a website for free using Gatsby",
+      "Listen, stand up to & for the users, design & the fellas, business folks.",
   },
   {
-    title: "YAML support",
-    description: "Support same YAML (e.g. tags, publish) as Obsidian",
+    title: "Walking sit-com directory",
+    description: "Pretty self-explanatory",
   },
   {
-    title: "Notes maturity frontmatter support",
+    title: "Puzzler",
     description:
-      "Display notes' maturity, customizable stages (This template used Maggie Appleton's metaphor - Seedling, Budding, Evergreen as an example to illustrate notes' maturity)",
+      "From rubiks cube to sudoku, from scrabble to hangman, play them all, love them all",
   },
   {
-    title: "SEO",
+    title: "Amateur Gamer",
     description:
-      "Better SEO than Obsidian Publish (Using react-helmet for basic SEO setup)",
+      "Can't drive well in ETS, not qualify for 3rd round in Fall Guys, rarely scores in Rocket League",
   },
 ];
 
