@@ -14,7 +14,7 @@ export default function Footer() {
               <img src={Logo} alt="Logo" className="w-10 hover:opacity-9" />
             </GatsbyLink>
             <p>
-              © {new Date().getFullYear()} {COPYRIGHT}
+              © {new Date().getFullYear()} {COPYRIGHT} made while watching sit-coms 📺
             </p>
           </div>
           <ul className="list-style-none flex gap-6 justify-between md:">
