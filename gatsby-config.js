@@ -139,8 +139,8 @@ module.exports = {
         fonts: {
           google: [
             {
-              family: "Roboto Serif",
-              variants: ["400", "500", "900"],
+              family: "Chivo",
+              variants: ["400", "700", "900"],
               fontDisplay: "swap",
             },
             {
